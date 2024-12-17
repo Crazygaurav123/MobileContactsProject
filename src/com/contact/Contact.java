@@ -14,7 +14,7 @@ public class Contact{
 		private String newEmailId;
 
 	public Contact(String name, String lastName, long mobileNo, String emailId,String newName,String newLastName, long newMobileNo,
-			String newEmailId) {
+			String newEmailId) { 
 		super();
 		this.name = name;
 		this.lastName = lastName;
